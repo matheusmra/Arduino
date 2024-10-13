@@ -1,6 +1,6 @@
 void setup()
 {
-  pinMode(2, INPUT);
+  pinMode(2, INPUT); // Botão
   pinMode(13, OUTPUT); // LED vermelho
   pinMode(12, OUTPUT); // LED amarelo
   pinMode(8, OUTPUT); // LED verde
